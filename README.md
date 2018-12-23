@@ -18,6 +18,9 @@ clipass -h
 2. you can take a loog for a reference to your own flag model inside "core/base_flags/length"
 
 **examples**
+
 clipass >> generates 16 random passwords, with 10 chars
+
 clipass -m 2 >> generates 2 random passwords, with 10 chars
+
 clipass -l 5 >> generates 16 random password, with 5 chars
