@@ -12,8 +12,7 @@ setuptools.setup(
     description="CLI passowrd generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    #install_requires=[''],
-    url="",
+    url="https://github.com/itay-bardugo/clipass",
     dependency_links=[],
     entry_points={
         "console_scripts": [
