@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 #packaging
 setuptools.setup(
     name="clipass",
-    version="0.0.0",
+    version="0.0.1",
     author="Itay Bardugo",
     author_email="itaybardugo91@gmail.com",
     description="CLI passowrd generator",
