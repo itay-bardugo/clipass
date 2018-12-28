@@ -1,19 +1,25 @@
 **change log**
+
 1. **0.0.0 (Active)**
+
     -stable version
 
 2. **0.1.0 (Future)**
+
     -save passwords to file.
     -send passwords to email.
     -generate passwords without conflicts between flags order.
 
 **install**
+
 pip install clipass
 
 **help**
+
 clipass -h
 
 **developers**
+
 1. you can add your own flags, by adding them to the "models" folder (each flag will be a package)
 2. you can take a loog for a reference to your own flag model inside "core/base_flags/length"
 
